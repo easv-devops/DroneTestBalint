@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "SCJEMhLPyZNHlNovn+x9MkqWNFkvbF7f15f/MgJX92V7xLnarsPSBz+UvTK1+GTRj3vgX313okea+aG6hAOxPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\balin\\OneDrive\\Dokumentumok\\Arduino\\fastestPlayer\\DroneTestBalint\\DroneTestBalint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\balin\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\balin\\.nuget\\packages\\nunit.console\\3.17.0\\nunit.console.3.17.0.nupkg.sha512",
+    "C:\\Users\\balin\\.nuget\\packages\\nunit.consolerunner\\3.17.0\\nunit.consolerunner.3.17.0.nupkg.sha512",
+    "C:\\Users\\balin\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\balin\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\balin\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\balin\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\balin\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
