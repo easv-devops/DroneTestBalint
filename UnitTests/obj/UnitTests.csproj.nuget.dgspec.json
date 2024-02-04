@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\balin\\OneDrive\\Dokumentumok\\Arduino\\fastestPlayer\\DroneTestBalint\\UnitTests\\UnitTests.csproj": {}
+    "C:\\Users\\balin\\RiderProject\\apiTest\\DroneTestBalint\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\balin\\OneDrive\\Dokumentumok\\Arduino\\fastestPlayer\\DroneTestBalint\\UnitTests\\UnitTests.csproj": {
+    "C:\\Users\\balin\\RiderProject\\apiTest\\DroneTestBalint\\UnitTests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\balin\\OneDrive\\Dokumentumok\\Arduino\\fastestPlayer\\DroneTestBalint\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\balin\\RiderProject\\apiTest\\DroneTestBalint\\UnitTests\\UnitTests.csproj",
         "projectName": "UnitTests",
-        "projectPath": "C:\\Users\\balin\\OneDrive\\Dokumentumok\\Arduino\\fastestPlayer\\DroneTestBalint\\UnitTests\\UnitTests.csproj",
+        "projectPath": "C:\\Users\\balin\\RiderProject\\apiTest\\DroneTestBalint\\UnitTests\\UnitTests.csproj",
         "packagesPath": "C:\\Users\\balin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\balin\\OneDrive\\Dokumentumok\\Arduino\\fastestPlayer\\DroneTestBalint\\UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\balin\\RiderProject\\apiTest\\DroneTestBalint\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\balin\\AppData\\Roaming\\NuGet\\NuGet.Config",

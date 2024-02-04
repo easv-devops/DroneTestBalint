@@ -1,4 +1,4 @@
-﻿namespace DroneTestBalint.UnitTests;
+﻿namespace UnitTests;
 
 public class Calculator
 {

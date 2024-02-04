@@ -1,6 +1,6 @@
-namespace DroneTestBalint.UnitTests;
+namespace UnitTests;
 
-public class Tests()
+public class Tests
 {
     private Calculator calculator;
     [SetUp]
