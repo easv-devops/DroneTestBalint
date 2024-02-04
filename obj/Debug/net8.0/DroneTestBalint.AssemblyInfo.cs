@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DroneTestBalint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd9a0894151493ef663f45b6be334ec2402d4910")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c28aafdaf6b8f3ed31f57dcb56a029f6ec341a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("DroneTestBalint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DroneTestBalint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

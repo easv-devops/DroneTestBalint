@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qQE9w26XfWalCMXYnsLrgmAGQugtMFGNna/dyXT7J6gqSlKKNSP63CVVcen6igEnkzwkGXybotLmWqMVdvYGuQ==",
+  "dgSpecHash": "zjdyWtD6+jLsIzZKOTQwIHX/BD+6+rXXGclNUYNVuHWf5cC2HnWaBO8aaGziK1+M/D8VbkxnIW9DXwZq/H1yAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\balin\\RiderProject\\apiTest\\DroneTestBalint\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\balin\\OneDrive\\Dokumentumok\\Arduino\\fastestPlayer\\DroneTestBalint\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\balin\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\balin\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
