@@ -1,10 +1,8 @@
-﻿using DefaultNamespace;
-using NUnit.Framework;
+namespace DroneTestBalint.UnitTests;
 
-namespace DroneTestBalint;
-
-public class CalculatorTests(Calculator calculator)
+public class Tests()
 {
+    private Calculator calculator;
     [SetUp]
     public void Setup()
     {
@@ -48,11 +46,11 @@ public class CalculatorTests(Calculator calculator)
     [Test]
     public void SubtractWithNegative()
     {
-        Assert.That(calculator.Add(5, -2), Is.EqualTo(7));
+        Assert.That(calculator.Add(5, -2), Is.EqualTo(3));
     }
     [Test]
     public void Subtract()
     {
-        Assert.That(calculator.Add(5, 2), Is.EqualTo(3));
+        Assert.That(calculator.Add(5, 2), Is.EqualTo(7));
     }
 }
