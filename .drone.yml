@@ -6,6 +6,7 @@ steps:
   - name: build
     image: mcr.microsoft.com/dotnet/sdk
     commands:
+      - dotnet clean
       - dotnet build
   
   - name: test
