@@ -14,5 +14,5 @@ steps:
           /d:sonar.cs.vscoveragexml.reportsPaths=coverage.xml
           /d:sonar.qualitygate.wait=true
       - dotnet build --no-incremental
-      - dotnet-coverage collect "dotnet test" -f xml -o "./UnitTests/coverage.xml"
+      - dotnet-coverage collect "dotnet test" -f xml -o "coverage.xml"
       - dotnet sonarscanner end /d:sonar.token="sqp_5f4c02dcebd634251b67547b786936aeb5fa18cb"
