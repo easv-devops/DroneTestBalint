@@ -6,9 +6,6 @@ steps:
   - name: code-analysis
     image: boulundeasv/dotnet-sdk-with-java
     commands:
-      - dotnet sonarscanner begin 
-          /k:"easv-devops_DroneTestBalint_AY2-C89nEVvRW2O60ECr"
-          /d:sonar.host.url="http://sonar.setgo.dk:9000"  
-          /d:sonar.token="sqp_5f4c02dcebd634251b67547b786936aeb5fa18cb"
+      - dotnet sonarscanner begin /k:"easv-devops_DroneTestBalint_AY2-C89nEVvRW2O60ECr" /d:sonar.host.url="http://sonar.setgo.dk:9000"  /d:sonar.token="sqp_5f4c02dcebd634251b67547b786936aeb5fa18cb"
       - dotnet build
       - dotnet sonarscanner end /d:sonar.token="sqp_5f4c02dcebd634251b67547b786936aeb5fa18cb"
