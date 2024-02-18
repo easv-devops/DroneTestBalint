@@ -3,7 +3,7 @@ type: docker
 name: integration
 
 steps:
-  - name: build
+  - name: code-analysis
     image: boulundeasv/dotnet-sdk-with-java
     commands:
       - cd ./UnitTests/
@@ -11,7 +11,7 @@ steps:
           /k:"easv-devops_DroneTestBalint_AY2-C89nEVvRW2O60ECr"
           /d:sonar.host.url="http://sonar.setgo.dk:9000"
           /d:sonar.token="sqp_5f4c02dcebd634251b67547b786936aeb5fa18cb"
-          /d:sonar.cs.vscoveragexml.reportsPaths=coverage.xml
+          /d:sonar.cs.vscoveragexml.reportsPaths=./UnitTests/coverage.xml
           /d:sonar.qualitygate.wait=true
       - dotnet build --no-incremental
       - dotnet-coverage collect "dotnet test" -f xml -o "coverage.xml"
